@@ -85,5 +85,5 @@ class User extends Model
     {
         static::addGlobalScope(new AncientScope);
     }
-
+}
 ```
